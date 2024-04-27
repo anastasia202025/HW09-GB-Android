@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name ="app_name">Квест для геймеров</string>
+    <string name="input_date_of_birth">Введите дату рождения</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_picture_description">Добро пожаловать</string>
+    <string name="button_date_of_birth">Дата рождения</string>
+    <string name="button_welcome">Начать игру</string>
+
+    <string name="quiz_title">Квиз для Геймера</string>
+    <string name="question_01">Какое имя главного героя Half-life 1 и 2?</string>
+    <string name="answer_01_01">Барни Калхаун</string>
+    <string name="answer_01_02">Адриан Шепард</string>
+    <string name="answer_01_03">Гордон Фримен</string>
+    <string name="answer_01_04">Аликс Вэнс</string>
+    <string name="question_02">Какое имя главного героя серии Uncharted?</string>
+    <string name="answer_02_01">Сэмюэл Дрейк</string>
+    <string name="answer_02_02">Елена Фишер</string>
+    <string name="answer_02_03">Виктор Саливан</string>
+    <string name="answer_02_04">Нейтан Дрейк</string>
+    <string name="question_03">Какой город был обнаружен во второй части Uncharted?</string>
+    <string name="answer_03_01">Эльдорадо</string>
+    <string name="answer_03_02">Шамбала</string>
+    <string name="answer_03_03">Либреталия</string>
+    <string name="answer_03_04">Убар</string>
+    <string name="question_04">Какой силой обладали оба главных героя игры Scarlet Nexus?</string>
+    <string name="answer_04_01">Гравикинез</string>
+    <string name="answer_04_02">Телекинез</string>
+    <string name="answer_04_03">Красные нити</string>
+    <string name="answer_04_04">Путешествие во времени</string>
+    <string name="button_send">Отправить ответы</string>
+
+    <string name="result_title">Результат:</string>
+    <string name="button_return_quiz">Повторить квиз</string>
+</resources>
